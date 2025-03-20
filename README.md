@@ -1,8 +1,8 @@
 # 👋 Hi, I’m @GowthamSenthilKumarGSK  
 
-👀 I’m interested in learning different programming languages and in data analysis.  
+👀 I’m interested in learning different programming languages and data analysis.  
 
-🌱 I’m currently pursuing Data Science at PSG College of Technology.  
+🌱 I’m currently pursuing M.Sc. Data Science at PSG College of Technology.  
 
 ---
 
