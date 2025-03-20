@@ -5,15 +5,28 @@
 🌱 I’m currently pursuing Data Science at PSG College of Technology.
 
 ## 📊 Profile Stats
+
 ![Gowtham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GowthamSenthilKumarGSK&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=dark)
 
-## 🏅 GitHub Streak
+### 🏅 GitHub Streak
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GowthamSenthilKumarGSK&theme=dark)
 
-## 👁️ Profile Views
+### 🚀 Contribution Stats
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=GowthamSenthilKumarGSK&theme=react-dark&hide_border=true)
+
+### 🔥 Contributions & Streaks
+
+| 🔥 Total Contributions | 🔥 Current Streak | 🔥 Longest Streak |
+|------------------------|------------------|------------------|
+| ![Contributions](https://github-readme-stats.vercel.app/api?username=GowthamSenthilKumarGSK&show_icons=true&count_private=true&theme=dark) | ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=GowthamSenthilKumarGSK&theme=dark) | 🔥 |
+
+### 👁️ Profile Views
 ![Profile Views](https://komarev.com/ghpvc/?username=GowthamSenthilKumarGSK&color=blue)
 
 ## 📊 Most Used Languages
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GowthamSenthilKumarGSK&layout=compact&theme=dark)
 
 ## 🔧 Technologies & Tools
@@ -24,6 +37,9 @@
 - Data Visualization
 - Machine Learning
 - Deep Learning
+- streamlit
+- pandas
+- plotly
 
 ## 🌱 Currently Learning
 
@@ -32,8 +48,8 @@
 
 ## 📬 How to reach me:
 
-- **LinkedIn**: [Gowtham Senthilkumar](https://www.linkedin.com/in/gowtham-senthilkumar-gsk/)
-- **Email**: gowthamsenthil@hotmail.com
+- **LinkedIn**: [GowthamSenthilKumarGSK](https://www.linkedin.com/in/gowthamsenthilkumargsk/)
+- **Email**: gowthamsenthilkgsk@gmail.com
 
 ---
 
