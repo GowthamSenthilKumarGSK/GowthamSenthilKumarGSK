@@ -4,48 +4,70 @@
 
 🌱 I’m currently pursuing Data Science at PSG College of Technology.
 
-## 📊 Profile Stats
+---
 
-![Gowtham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GowthamSenthilKumarGSK&show_icons=true&hide_title=true&count_private=true&theme=dark)
+## 📊 Profile Stats  
 
-### 🏅 GitHub Streak
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GowthamSenthilKumarGSK&show_icons=true&count_private=true&theme=dark" width="500px" />
+</div>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GowthamSenthilKumarGSK&theme=dark)
+---
 
-### 🔥 Contributions & Streaks
+## 🔥 Contributions & Streaks  
 
-| 🔥 Total Contributions | 🔥 Current Streak | 🔥 Longest Streak |
-|------------------------|------------------|------------------|
-| ![Total Contributions](https://github-readme-stats.vercel.app/api?username=GowthamSenthilKumarGSK&show_icons=true&count_private=true&theme=dark) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=GowthamSenthilKumarGSK&theme=dark) | ![Longest Streak](https://github-readme-streak-stats.herokuapp.com?user=GowthamSenthilKumarGSK&theme=dark) |
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GowthamSenthilKumarGSK&theme=dark" width="500px" />
+</div>
 
-### 👁️ Profile Views
+---
+
+## 📊 Total Contributions  
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GowthamSenthilKumarGSK&show_icons=true&count_private=true&theme=dark" width="250px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=GowthamSenthilKumarGSK&theme=dark&hide_border=true" width="250px" />
+</div>
+
+---
+
+## 👁️ Profile Views  
 ![Profile Views](https://komarev.com/ghpvc/?username=GowthamSenthilKumarGSK&color=blue)
 
-## 📊 Most Used Languages
+---
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GowthamSenthilKumarGSK&layout=compact&theme=dark)
+## 📊 Most Used Languages  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GowthamSenthilKumarGSK&layout=compact&theme=dark" width="400px"/>
+</div>
 
-## 🔧 Technologies & Tools
+---
 
-- Python
-- C++
-- SQL
-- Data Visualization
-- Machine Learning
-- Deep Learning
-- Streamlit
-- Pandas
-- Plotly
+## 🔧 Technologies & Tools  
 
-## 🌱 Currently Learning
+- Python  
+- C++  
+- SQL  
+- Data Visualization  
+- Machine Learning  
+- Deep Learning  
+- Streamlit  
+- Pandas  
+- Plotly  
 
-- Data Science
-- Artificial Intelligence
+---
 
-## 📬 How to reach me:
+## 🌱 Currently Learning  
 
-- **LinkedIn**: [GowthamSenthilKumarGSK](https://www.linkedin.com/in/gowthamsenthilkumargsk/)
-- **Email**: gowthamsenthilkgsk@gmail.com
+- Data Science  
+- Artificial Intelligence  
+
+---
+
+## 📬 How to reach me:  
+
+- **LinkedIn**: [GowthamSenthilKumarGSK](https://www.linkedin.com/in/gowthamsenthilkumargsk/)  
+- **Email**: gowthamsenthilkgsk@gmail.com  
 
 ---
 
