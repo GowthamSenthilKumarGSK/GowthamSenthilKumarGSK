@@ -1,16 +1,17 @@
 # 👋 Hi, I’m @GowthamSenthilKumarGSK  
 
-👀 I’m interested in learning different programming languages and in data analysis. 
-
+👀 I’m interested in learning different programming languages and in data analysis.  
 🌱 I’m currently pursuing Data Science at PSG College of Technology.  
 
 ---
 
-
-## 📊 Total Contributions  
+## 📊 Profile Stats  
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GowthamSenthilKumarGSK&show_icons=true&count_private=true&theme=dark&cache_seconds=86400" width="450px" />
+
+  <img src="https://github-readme-stats.vercel.app/api?username=GowthamSenthilKumarGSK&show_icons=true&count_private=true&theme=dark&cache_seconds=86400" width="400px" />
+  <img src="https://streak-stats.demolab.com/?user=GowthamSenthilKumarGSK&theme=dark" width="400px" />
+  
 </div>
 
 ---
@@ -35,7 +36,8 @@
 - Python  
 - C++  
 - SQL  
-- Data Visualization  
+- Data Visualization
+- Power BI
 - Machine Learning  
 - Deep Learning  
 - Streamlit  
