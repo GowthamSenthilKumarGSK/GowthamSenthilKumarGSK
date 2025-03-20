@@ -1,23 +1,14 @@
-# 👋 Hi, I’m @GowthamSenthilKumarGSK
+# 👋 Hi, I’m @GowthamSenthilKumarGSK  
 
-👀 I’m interested in learning different programming languages and in data analysis.
-
-🌱 I’m currently pursuing Data Science at PSG College of Technology.
-
----
-
-## 📊 Profile Stats  
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GowthamSenthilKumarGSK&show_icons=true&count_private=true&theme=dark" width="500px" />
-</div>
+👀 I’m interested in learning different programming languages and in data analysis.  
+🌱 I’m currently pursuing Data Science at PSG College of Technology.  
 
 ---
 
 ## 🔥 Contributions & Streaks  
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GowthamSenthilKumarGSK&theme=dark" width="500px" />
+  <img src="https://streak-stats.demolab.com/?user=GowthamSenthilKumarGSK&theme=dark" width="450px" />
 </div>
 
 ---
@@ -25,20 +16,22 @@
 ## 📊 Total Contributions  
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GowthamSenthilKumarGSK&show_icons=true&count_private=true&theme=dark" width="250px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=GowthamSenthilKumarGSK&theme=dark&hide_border=true" width="250px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=GowthamSenthilKumarGSK&show_icons=true&count_private=true&theme=dark&cache_seconds=86400" width="450px" />
 </div>
 
 ---
 
 ## 👁️ Profile Views  
-![Profile Views](https://komarev.com/ghpvc/?username=GowthamSenthilKumarGSK&color=blue)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=GowthamSenthilKumarGSK&color=blue" />
+</p>
 
 ---
 
 ## 📊 Most Used Languages  
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GowthamSenthilKumarGSK&layout=compact&theme=dark" width="400px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GowthamSenthilKumarGSK&layout=compact&theme=dark&cache_seconds=86400" width="450px"/>
 </div>
 
 ---
