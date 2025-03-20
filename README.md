@@ -6,21 +6,17 @@
 
 ## 📊 Profile Stats
 
-![Gowtham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GowthamSenthilKumarGSK&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=dark)
+![Gowtham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GowthamSenthilKumarGSK&show_icons=true&hide_title=true&count_private=true&theme=dark)
 
 ### 🏅 GitHub Streak
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GowthamSenthilKumarGSK&theme=dark)
 
-### 🚀 Contribution Stats
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=GowthamSenthilKumarGSK&theme=react-dark&hide_border=true)
-
 ### 🔥 Contributions & Streaks
 
 | 🔥 Total Contributions | 🔥 Current Streak | 🔥 Longest Streak |
 |------------------------|------------------|------------------|
-| ![Contributions](https://github-readme-stats.vercel.app/api?username=GowthamSenthilKumarGSK&show_icons=true&count_private=true&theme=dark) | ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=GowthamSenthilKumarGSK&theme=dark) | 🔥 |
+| ![Total Contributions](https://github-readme-stats.vercel.app/api?username=GowthamSenthilKumarGSK&show_icons=true&count_private=true&theme=dark) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=GowthamSenthilKumarGSK&theme=dark) | ![Longest Streak](https://github-readme-streak-stats.herokuapp.com?user=GowthamSenthilKumarGSK&theme=dark) |
 
 ### 👁️ Profile Views
 ![Profile Views](https://komarev.com/ghpvc/?username=GowthamSenthilKumarGSK&color=blue)
@@ -37,9 +33,9 @@
 - Data Visualization
 - Machine Learning
 - Deep Learning
-- streamlit
-- pandas
-- plotly
+- Streamlit
+- Pandas
+- Plotly
 
 ## 🌱 Currently Learning
 
