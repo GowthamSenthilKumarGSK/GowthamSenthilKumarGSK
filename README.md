@@ -5,13 +5,6 @@
 
 ---
 
-## 🔥 Contributions & Streaks  
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=GowthamSenthilKumarGSK&theme=dark" width="450px" />
-</div>
-
----
 
 ## 📊 Total Contributions  
 
