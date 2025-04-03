@@ -36,8 +36,8 @@
 - Python  
 - C++  
 - SQL  
-- Data Visualization
-- Power BI
+- Data Visualization  
+- Power BI  
 - Machine Learning  
 - Deep Learning  
 - Streamlit  
@@ -53,10 +53,16 @@
 
 ---
 
-## 📬 How to reach me:  
+## 📩 How to reach me:  
 
 - **LinkedIn**: [GowthamSenthilKumarGSK](https://www.linkedin.com/in/gowthamsenthilkumargsk/)  
 - **Email**: gowthamsenthilkgsk@gmail.com  
+
+---
+
+## 🔗 Let's Connect  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/gowthamsenthilkumargsk/)  
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/GowthamSenthilKumarGSK)  
 
 ---
 
