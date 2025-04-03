@@ -6,10 +6,17 @@
 
 ---
 
-## 🌊 Profile Stats & Most Used Languages  
+## 📊 Profile Stats  
 
-<div align="center" style="display: flex; justify-content: center;">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=GowthamSenthilKumarGSK&show_icons=true&count_private=true&theme=dark&cache_seconds=86400" width="400px" />
+</div>
+
+---
+
+## 📊 Most Used Languages  
+
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GowthamSenthilKumarGSK&layout=compact&theme=dark&cache_seconds=86400" width="400px" />
 </div>
 
@@ -56,4 +63,4 @@
 
 - **Email**: gowtham_senthil@hotmail.com  
 
-🚀 Let’s collaborate on exciting AI projects!
+🚀 Let’s collaborate on exciting Data Science projects!
