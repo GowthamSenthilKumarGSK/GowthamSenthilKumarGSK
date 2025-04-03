@@ -6,10 +6,17 @@
 
 ---
 
-## 📊 Profile Stats & Most Used Languages  
+## 🌊 Profile Stats  
 
-<div align="center" style="display: flex; justify-content: space-around;">
-  <img src="https://github-readme-stats.vercel.app/api?username=GowthamSenthilKumarGSK&show_icons=true&count_private=true&theme=dark&cache_seconds=86400" width="400px" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GowthamSenthilKumarGSK&show_icons=true&count_private=true&theme=dark&cache_seconds=86400" width="450px" />
+</div>
+
+---
+
+## 📊 Most Used Languages  
+
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GowthamSenthilKumarGSK&layout=compact&theme=dark&cache_seconds=86400" width="450px"/>
 </div>
 
@@ -50,10 +57,10 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/gowthamsenthilkumargsk/)  
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/GowthamSenthilKumarGSK)  
 
-🚀 Let’s collaborate on exciting data science projects!  
-
 ---
 
-## 💌 Contact Me  
+## 📨 Contact Me  
 
 - **Email**: gowtham_senthil@hotmail.com  
+
+🚀 Let’s collaborate on exciting data science projects!
