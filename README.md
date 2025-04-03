@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @GowthamSenthilKumarGSK  
+# 👋 Hi, I’m Gowtham 
 
 👀 I’m interested in learning different programming languages and data analysis.  
 
