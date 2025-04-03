@@ -6,12 +6,11 @@
 
 ---
 
-## 📊 Profile Stats  
+## 📊 Profile Stats & Most Used Languages  
 
-<div align="center">
-
+<div align="center" style="display: flex; justify-content: space-around;">
   <img src="https://github-readme-stats.vercel.app/api?username=GowthamSenthilKumarGSK&show_icons=true&count_private=true&theme=dark&cache_seconds=86400" width="400px" />
-  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GowthamSenthilKumarGSK&layout=compact&theme=dark&cache_seconds=86400" width="450px"/>
 </div>
 
 ---
@@ -20,14 +19,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=GowthamSenthilKumarGSK&color=blue" />
 </p>
-
----
-
-## 📊 Most Used Languages  
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GowthamSenthilKumarGSK&layout=compact&theme=dark&cache_seconds=86400" width="450px"/>
-</div>
 
 ---
 
@@ -43,7 +34,7 @@
 👁️ OpenCV   |   📊 Plotly   |   🌐 BeautifulSoup  
 
 ### Databases & Backend:  
-💾 MySQL  |   🏰 Power BI  |   🐂 JSON APIs  
+💾 MySQL  |   🏰 Power BI  |   📂 JSON APIs  
 
 ---
 
@@ -65,4 +56,4 @@
 
 ## 💌 Contact Me  
 
-- **Email**: gowthamsenthilkgsk@gmail.com  
+- **Email**: gowtham_senthil@hotmail.com  
