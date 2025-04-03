@@ -31,18 +31,19 @@
 
 ---
 
-## 🔧 Technologies & Tools  
+## 🔧 Tech Stack  
 
-- Python  
-- C++  
-- SQL  
-- Data Visualization  
-- Power BI  
-- Machine Learning  
-- Deep Learning  
-- Streamlit  
-- Pandas  
-- Plotly  
+### Languages:  
+🐍 Python   |   💻 C++   |   🟩 SQL   
+
+### Frameworks:  
+🔥 Streamlit   |   📚 Pandas   |   📊 Scikit-Learn  
+
+### Tools & Libraries:  
+👁️ OpenCV   |   📊 Plotly   |   🌐 BeautifulSoup  
+
+### Databases & Backend:  
+💾 MySQL  |   🏰 Power BI  |   🐂 JSON APIs  
 
 ---
 
@@ -53,17 +54,15 @@
 
 ---
 
-## 📩 How to reach me:  
+## 💍 Connect with Me  
 
-- **LinkedIn**: [GowthamSenthilKumarGSK](https://www.linkedin.com/in/gowthamsenthilkumargsk/)  
-- **Email**: gowthamsenthilkgsk@gmail.com  
-
----
-
-## 🔗 Let's Connect  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/gowthamsenthilkumargsk/)  
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/GowthamSenthilKumarGSK)  
 
+🚀 Let’s collaborate on exciting data science projects!  
+
 ---
 
-🚀 Let’s connect and collaborate on exciting data science projects!
+## 💌 Contact Me  
+
+- **Email**: gowthamsenthilkgsk@gmail.com  
