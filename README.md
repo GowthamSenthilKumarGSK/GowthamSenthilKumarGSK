@@ -6,18 +6,11 @@
 
 ---
 
-## 🌊 Profile Stats  
+## 🌊 Profile Stats & Most Used Languages  
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GowthamSenthilKumarGSK&show_icons=true&count_private=true&theme=dark&cache_seconds=86400" width="450px" />
-</div>
-
----
-
-## 📊 Most Used Languages  
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GowthamSenthilKumarGSK&layout=compact&theme=dark&cache_seconds=86400" width="450px"/>
+<div align="center" style="display: flex; justify-content: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=GowthamSenthilKumarGSK&show_icons=true&count_private=true&theme=dark&cache_seconds=86400" width="400px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GowthamSenthilKumarGSK&layout=compact&theme=dark&cache_seconds=86400" width="400px" />
 </div>
 
 ---
@@ -32,7 +25,7 @@
 ## 🔧 Tech Stack  
 
 ### Languages:  
-🐍 Python   |   💻 C++   |   🟩 SQL   
+🐍 Python   |   💻 C++   |   🔗 SQL   
 
 ### Frameworks:  
 🔥 Streamlit   |   📚 Pandas   |   📊 Scikit-Learn  
@@ -47,20 +40,20 @@
 
 ## 🌱 Currently Learning  
 
-- Data Science  
-- Artificial Intelligence  
+- **Artificial Intelligence**: Creating AI-driven automation, chatbots, and real-world intelligent systems.  
+- **Deep Learning**: Leveraging CNNs for vision tasks, RNNs for sequential data, and transformers for next-gen AI models.  
 
 ---
 
-## 💍 Connect with Me  
+## 🔗 Connect with Me  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/gowthamsenthilkumargsk/)  
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/GowthamSenthilKumarGSK)  
 
 ---
 
-## 📨 Contact Me  
+## 📬 Contact Me  
 
 - **Email**: gowtham_senthil@hotmail.com  
 
-🚀 Let’s collaborate on exciting data science projects!
+🚀 Let’s collaborate on exciting AI projects!
