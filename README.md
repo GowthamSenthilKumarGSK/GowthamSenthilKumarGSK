@@ -25,7 +25,7 @@
 ## 📊 Profile Stats  
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GowthamSenthilKumarGSK&show_icons=true&count_private=true&theme=dark&cache_seconds=86400" width="400px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=GowthamSenthilKumarGSK&show_icons=true&count_private=true&theme=default&cache_seconds=86400" width="400px" />
 </div>
 
 ---
@@ -33,7 +33,7 @@
 ## 📊 Most Used Languages  
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GowthamSenthilKumarGSK&layout=compact&theme=dark&cache_seconds=86400" width="400px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GowthamSenthilKumarGSK&layout=compact&theme=default&cache_seconds=86400" width="400px" />
 </div>
 
 ---
@@ -52,13 +52,17 @@
 
 ---
 
-## My GitHub Trophies ![trophy](https://github-profile-trophy.vercel.app/?username=GowthamSenthilKumarGSK)
+## 🏆 My GitHub Trophies  
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=GowthamSenthilKumarGSK" />
+</div>
 
 ---
 
 ## 🔗 Connect with Me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/gowthamsenthilkumargsk/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/gowtham-senthilkumar-gsk/)  
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/GowthamSenthilKumarGSK)  
 
 ---
