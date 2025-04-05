@@ -6,6 +6,22 @@
 
 ---
 
+## 🔧 Tech Stack  
+
+### Languages:  
+🐍 Python   |   💻 C++   |   🔗 SQL   
+
+### Frameworks:  
+🔥 Streamlit   |   📚 Pandas   |   📊 Scikit-Learn  
+
+### Tools & Libraries:  
+👁️ OpenCV   |   📊 Plotly   |   🌐 BeautifulSoup  
+
+### Databases & Backend:  
+💾 MySQL  |   🏰 Power BI  |   📂 JSON APIs  
+
+---
+
 ## 📊 Profile Stats  
 
 <div align="center">
@@ -29,26 +45,14 @@
 
 ---
 
-## 🔧 Tech Stack  
-
-### Languages:  
-🐍 Python   |   💻 C++   |   🔗 SQL   
-
-### Frameworks:  
-🔥 Streamlit   |   📚 Pandas   |   📊 Scikit-Learn  
-
-### Tools & Libraries:  
-👁️ OpenCV   |   📊 Plotly   |   🌐 BeautifulSoup  
-
-### Databases & Backend:  
-💾 MySQL  |   🏰 Power BI  |   📂 JSON APIs  
-
----
-
 ## 🌱 Currently Learning  
 
 - **Artificial Intelligence**: Creating AI-driven automation, chatbots, and real-world intelligent systems.  
 - **Deep Learning**: Leveraging CNNs for vision tasks, RNNs for sequential data, and transformers for next-gen AI models.  
+
+---
+
+## My GitHub Trophies ![trophy](https://github-profile-trophy.vercel.app/?username=GowthamSenthilKumarGSK)
 
 ---
 
